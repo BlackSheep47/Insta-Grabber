@@ -20,8 +20,10 @@ A Python script that allows you to effortlessly download Instagram posts, storie
 
 - Python 3.8 or higher  
 - Required libraries (install using `requirements.txt`):
-  ```bash
+```bash
   pip install -r requirements.txt
+
+```
 
 
 <h2>🛠️ How to Use:</h2>
